@@ -1,4 +1,3 @@
-# GAIP PROJECT- GROUP 12
 ## Sentence generation after Sign language recognition and translation
 
 Faculty incharge: 
