@@ -11,7 +11,6 @@ Faculty incharge:
 
 
 **Source of Dataset**-
-        https://www.kaggle.com/datasets/utsavk02/wlasl-complete
 
 ## For Running through GitHub
 
