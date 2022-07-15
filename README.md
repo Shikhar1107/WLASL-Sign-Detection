@@ -5,7 +5,7 @@ Faculty incharge:
     <li>**Dr. TAN Wee Kek**
     <li>**Dr. LEK Hsiang Hui**
     <li>**Dr. Amirhassan Monajemi**        
-    <li>****
+    <li>**Mr. Shantanu Pandey**
 
 **Project Abstract :-** <br/>
 
